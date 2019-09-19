@@ -3,7 +3,7 @@ agent any
 stages{
 stage('Builing the war file'){
 steps {
-mvn clean package
+sh 'mvn clean package'
 }
 post{
 success{
