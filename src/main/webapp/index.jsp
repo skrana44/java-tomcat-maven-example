@@ -3,6 +3,7 @@
 <head>
 <title>The Bookstore</title>
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
+=======
 </head>
 <body>
 <h1>
@@ -22,6 +23,8 @@
 <p><img class="imgsec" src="TNF.jpg" width="400" height="400" title="The Naked Face">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="TMNN.jpg" width="400" height="400" title="Morning Noon and Night"><img src="TOSOM.jpg" width="400" height="400" title="The Other Side of Midnight">
 </P>
 <!--This was created for recommendation<p><a href="#Suggestion">Check our recommendations</a></p>-->
+=======
+</P>
 <h2>
 <p>For Comic</p>
 </h2>
@@ -33,6 +36,7 @@
 </ul>
 <p><img src="TT.jpg" width="600" height="400" title="Tintin" alt="Tintin"></P>
 <!--This was created for recommendation<p><a href="#Suggestion">Check our recommendations</a></P>-->
+=======
 <h2>
 <p>For Romantic</p>
 </h2>
@@ -44,6 +48,7 @@
 </ul>
 <p><img src="PSILU.jpg" width="600" height="400" title="P.S. I Love You"></p><br><br>
 <!--This was created for recommendation<p><a href="#Suggestion"><b><i>Check our recommendations</b></i></a></P>-->
+=======
 <form action="" method="">
 Choose a book: <br>
 <select>
@@ -68,11 +73,15 @@ Choose a book: <br>
 </h2>
 
 <p><a href="secondpage.html">International Best Seller</a></p>
+=======
+</h2>
+
 
 <p>Check our Youtube videos, <a href="https://www.youtube.com/channel/UCWuCIB2EEugIyW8W6rs3vJA?view_as=subscriber"> click here </a>
 </p>
 <h4>
 <p><a href="feedback.html">Feedback</a></p>
+=======
 
 </body>
 
