@@ -8,7 +8,7 @@ sh 'mvn clean package'
 post{
 success{
 echo "Builing archieve"
-archiveArtifacts artifact : "**/*.war"
+archiveArtifacts artifacts : "**/*.war"
 }
 }
 }
