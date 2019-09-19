@@ -20,7 +20,7 @@
 <li>Morning Noon and Night</li>
 <li>The Other Side of Midnight</li>
 </ul>
-<p><img class="imgsec" src="TNF.jpg" width="400" height="400" title="The Naked Face">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="TMNN.jpg" width="400" height="400" title="Morning Noon and Night"><img src="TOSOM.jpg" width="400" height="400" title="The Other Side of Midnight">
+<p><img class="imgsec" src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/TNF.jpg" width="400" height="400" title="The Naked Face">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/TMNN.jpg" width="400" height="400" title="Morning Noon and Night"><img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/TOSOM.jpg" width="400" height="400" title="The Other Side of Midnight">
 </P>
 <!--This was created for recommendation<p><a href="#Suggestion">Check our recommendations</a></p>-->
 =======
@@ -34,7 +34,7 @@
 <li>Harry Potter</li>
 <li>Superman</li>
 </ul>
-<p><img src="TT.jpg" width="600" height="400" title="Tintin" alt="Tintin"></P>
+<p><img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/TT.jpg" width="600" height="400" title="Tintin" alt="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/Tintin"></P>
 <!--This was created for recommendation<p><a href="#Suggestion">Check our recommendations</a></P>-->
 =======
 <h2>
@@ -46,7 +46,7 @@
 <li>I Too Had A Love Story</li>
 <li>The Great Gatsby</li>
 </ul>
-<p><img src="PSILU.jpg" width="600" height="400" title="P.S. I Love You"></p><br><br>
+<p><img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/PSILU.jpg" width="600" height="400" title="P.S. I Love You"></p><br><br>
 <!--This was created for recommendation<p><a href="#Suggestion"><b><i>Check our recommendations</b></i></a></P>-->
 =======
 <form action="" method="">
