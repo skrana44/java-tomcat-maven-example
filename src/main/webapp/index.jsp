@@ -20,7 +20,7 @@
 <li>Morning Noon and Night</li>
 <li>The Other Side of Midnight</li>
 </ul>
-<p><img class="imgsec" src="https://kbimages1-a.akamaihd.net/bf595f8e-4017-41e8-b4a8-c69b61e21866/1200/1200/False/the-naked-face.jpg" width="400" height="400" title="The Naked Face">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/TMNN.jpg" width="400" height="400" title="Morning Noon and Night"><img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/TOSOM.jpg" width="400" height="400" title="The Other Side of Midnight">
+<p><img class="imgsec" src="https://m.media-amazon.com/images/I/51J1aRxtiAL._SL500_.jpg" width="400" height="400" title="The Naked Face">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://i.harperapps.com/covers/9780062007834/x510.jpg" width="400" height="400" title="Morning Noon and Night"><img src="https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9781478948414.jpg?fit=443%2C675" width="400" height="400" title="The Other Side of Midnight">
 </P>
 <!--This was created for recommendation<p><a href="#Suggestion">Check our recommendations</a></p>-->
 =======
@@ -34,7 +34,7 @@
 <li>Harry Potter</li>
 <li>Superman</li>
 </ul>
-<p><img src="https://github.com/skrana44/java-tomcat-maven-example/blob/stage/TT.jpg" width="600" height="400" title="Tintin" alt="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/Tintin"></P>
+<p><img src="https://www.sbs.com.au/guide/sites/sbs.com.au.guide/files/styles/full/public/tintin_header.jpg?itok=hmWZbRS1" width="600" height="400" title="Tintin" alt="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/Tintin"></P>
 <!--This was created for recommendation<p><a href="#Suggestion">Check our recommendations</a></P>-->
 =======
 <h2>
@@ -46,7 +46,7 @@
 <li>I Too Had A Love Story</li>
 <li>The Great Gatsby</li>
 </ul>
-<p><img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/PSILU.jpg" width="600" height="400" title="P.S. I Love You"></p><br><br>
+<p><img src="https://images-na.ssl-images-amazon.com/images/I/41Tfjy2712L._SX324_BO1,204,203,200_.jpg" width="600" height="400" title="P.S. I Love You"></p><br><br>
 <!--This was created for recommendation<p><a href="#Suggestion"><b><i>Check our recommendations</b></i></a></P>-->
 =======
 <form action="" method="">
