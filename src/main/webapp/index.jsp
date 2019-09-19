@@ -9,7 +9,7 @@
 <h1>
 <p>Welcome To The Bookstore</p>
 </h1>
-<p class="details">The place where you can find all your favourite novels</p>
+<p class="details">The place where you can find all your favourite authors book</p>
 <!--From this place, section to the diffrent genre of novel stars-->
 <h2>
 <p>For Thriller </p>
