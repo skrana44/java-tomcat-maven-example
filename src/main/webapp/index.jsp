@@ -20,7 +20,7 @@
 <li>Morning Noon and Night</li>
 <li>The Other Side of Midnight</li>
 </ul>
-<p><img class="imgsec" src="https://github.com/skrana44/java-tomcat-maven-example/blob/stage/TNF.jpg" width="400" height="400" title="The Naked Face">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/TMNN.jpg" width="400" height="400" title="Morning Noon and Night"><img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/TOSOM.jpg" width="400" height="400" title="The Other Side of Midnight">
+<p><img class="imgsec" src="https://kbimages1-a.akamaihd.net/bf595f8e-4017-41e8-b4a8-c69b61e21866/1200/1200/False/the-naked-face.jpg" width="400" height="400" title="The Naked Face">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/TMNN.jpg" width="400" height="400" title="Morning Noon and Night"><img src="/home/srana/git-projects/tomcat-maven-example/java-tomcat-maven-example/TOSOM.jpg" width="400" height="400" title="The Other Side of Midnight">
 </P>
 <!--This was created for recommendation<p><a href="#Suggestion">Check our recommendations</a></p>-->
 =======
