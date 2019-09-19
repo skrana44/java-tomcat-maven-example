@@ -72,7 +72,7 @@ Choose a book: <br>
 <!--This was created for recommendation for each section: <p><a name="Suggestion">International Best Seller</a></p>-->
 </h2>
 
-<p><a href="secondpage.html">International Best Seller</a></p>
+<p><a href="https://github.com/skrana44/java-tomcat-maven-example/blob/stage/secondpage.html">International Best Seller</a></p>
 =======
 </h2>
 
@@ -80,7 +80,7 @@ Choose a book: <br>
 <p>Check our Youtube videos, <a href="https://www.youtube.com/channel/UCWuCIB2EEugIyW8W6rs3vJA?view_as=subscriber"> click here </a>
 </p>
 <h4>
-<p><a href="feedback.html">Feedback</a></p>
+<p><a href="https://github.com/skrana44/java-tomcat-maven-example/blob/stage/feedback.html">Feedback</a></p>
 =======
 
 </body>
