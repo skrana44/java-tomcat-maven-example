@@ -12,6 +12,8 @@ archiveArtifacts artifacts : "**/*.war"
 }
 }
 }
+stage('Deploy artifact'){
+    build job : 'Deploy_Tomcat_Maven_Example_using_PipelineAsCode_Stage'
 }
 }
-
+}
